@@ -23,6 +23,6 @@ We will install the DOCKER into the EC2 Instance to Manage and the DOCKER Contai
 
                    USER  ---->  GIT HUB  ----> CODE BUILD ---> DOCKER HUB --->  CODE DEPLOY ----> AMAZON EC2
                                                -------------------------------------------
-                                                              CODE PIPELINE 
+                                                              CODE PIPELINE   
 
 
